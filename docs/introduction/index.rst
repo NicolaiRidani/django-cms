@@ -1,8 +1,8 @@
-.. _tutorials:
+.. _introduction:
 
-#########
-Tutorials
-#########
+############
+Introduction
+############
 
 The pages in this section of the documentation are aimed at the newcomer to
 django CMS. They're designed to help you get started quickly, and show how
@@ -27,15 +27,20 @@ in the order presented here.
     :maxdepth: 1
     :numbered:
 
-    01-install
-    02-templates_placeholders
-    03-integrating_applications
-    04-plugins
-    05-apphooks
-    06-toolbar
-    07-menu
-    08-wizards
-    09-third_party
+    plugins
+    templates-and-placeholders
+    internationalisation
+    intergating
+
+    .. 01-install
+    .. 02-templates_placeholders
+    .. 03-integrating_applications
+    .. 04-plugins
+    .. 05-apphooks
+    .. 06-toolbar
+    .. 07-menu
+    .. 08-wizards
+    .. 09-third_party
 
 If you want to install django CMS into an existing project, or prefer to configure django CMS by
 hand, rather than using the automated installer, see :doc:`/how_to/install` and then follow the

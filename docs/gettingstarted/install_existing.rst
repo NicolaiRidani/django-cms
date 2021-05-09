@@ -1,8 +1,12 @@
-.. _installation:
+..  _install_existing:
 
-#################################
+#####################################
+Install in an existing django project
+#####################################
+
+*********************************
 How to install django CMS by hand
-#################################
+*********************************
 
 The easiest way to install django CMS is by using the automated `django CMS installer
 <https://github.com/nephila/djangocms-installer>`_. This is the recommended way to start with new projects, and it's

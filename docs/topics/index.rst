@@ -19,6 +19,7 @@ concerned with explaining *how to do things* than with helping you understand
     permissions
     touch
     menu_system
-    commonly_used_plugins
     searchdocs
     frontend-integration
+    .. commonly_used_plugins
+

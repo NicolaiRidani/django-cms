@@ -192,10 +192,13 @@ project.
     :maxdepth: 2
     :hidden:
 
+    gettingstarted/index
     introduction/index
-    how_to/index
+    advanced/index
     reference/index
-    topics/index
     contributing/index
     upgrade/index
     user/index
+    .. introduction/index
+    .. how_to/index
+    .. topics/index

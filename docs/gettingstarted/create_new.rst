@@ -1,10 +1,12 @@
-:sequential_nav: next
+..  _create_new:
 
-.. _install-django-cms-tutorial:
+###############################
+Create a new Django CMS project
+###############################
 
-#####################
+*********************
 Installing django CMS
-#####################
+*********************
 
 We'll get started by setting up our environment.
 

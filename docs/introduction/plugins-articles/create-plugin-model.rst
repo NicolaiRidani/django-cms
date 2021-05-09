@@ -1,18 +1,12 @@
-:sequential_nav: both
 
-.. _plugins_tutorial:
+.. _create-plugin-model:
 
-#######
-Plugins
-#######
+#####################
+Create a plugin model
+#####################
 
 In this tutorial we're going to take a basic Django opinion poll application and integrate it into
 the CMS.
-
-
-*********************************
-Create a plugin model
-*********************************
 
 In the ``models.py`` of ``polls_cms_integration`` add the following:
 
