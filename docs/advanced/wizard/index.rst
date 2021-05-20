@@ -5,7 +5,7 @@ Wizards
 #######
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 3
 
     content-wizard
     create-wizard

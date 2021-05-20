@@ -5,7 +5,7 @@ Advanced Topics
 ###############
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 3
 
     caching
     menu
@@ -13,4 +13,4 @@ Advanced Topics
     permissions
     touch
     frontend
-    wizard
+    wizard/index.rst

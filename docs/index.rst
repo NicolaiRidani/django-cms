@@ -189,7 +189,7 @@ project.
 
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     :hidden:
 
     gettingstarted/index
@@ -199,6 +199,3 @@ project.
     contributing/index
     upgrade/index
     user/index
-    .. introduction/index
-    .. how_to/index
-    .. topics/index
