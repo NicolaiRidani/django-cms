@@ -44,29 +44,28 @@ django CMS offers out-of-the-box support for the common features you'd expect
 from a CMS, but can also be easily customised and extended by developers to
 create a site that is tailored to their precise needs.
 
-
 .. rst-class:: clearfix row
 
 .. rst-class:: column column2
 
-:ref:`tutorials` - start here
+:ref:`gettingstarted`
 =============================
 
-For the new django CMS developer, from installation to creating your own addon applications.
+Here you can find installation instructions
 
 .. rst-class:: column column2
 
-:ref:`how-to`
+:ref:`introduction`
 =============
 
-Practical step-by-step guides for the more experienced developer, covering several important topics.
+Topics about basics of CMS
 
 .. rst-class:: column column2
 
-:ref:`key-topics`
+:ref:`advanced`
 =================
 
-Explanation and analysis of some key concepts in django CMS.
+Practical step-by-step guides for the more experienced developer, covering several important topics.
 
 .. rst-class:: column column2
 
