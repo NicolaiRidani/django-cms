@@ -26,7 +26,7 @@ in the order presented here.
 .. toctree::
     :maxdepth: 1
 
-    plugins-articles
+    plugins-articles/index.rst
     templates-and-placeholders
     internationalisation
     intergating
