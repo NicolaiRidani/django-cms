@@ -1,8 +1,8 @@
 ..  _development-community:
 
-##################################
+#####################
 Contributor Community
-##################################
+#####################
 
 You can join us online:
 
