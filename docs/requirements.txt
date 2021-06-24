@@ -10,7 +10,7 @@ DateTime==4.3
 divio-docs-theme==0.0.22
 Django==3.2
 django-classy-tags==2.0.0
--e git+https://github.com/NicolaiRidani/django-cms@a5db75c43b834294005a24171477429dce745cf5#egg=django_cms
+-e git+https://github.com/NicolaiRidani/django-cms@99bbceb7d49e65998cc408e38f746ccb43eb447a#egg=django_cms
 django-formtools==2.2
 django-sekizai==2.0.0
 django-treebeard==4.5.1
@@ -33,6 +33,7 @@ snowballstemmer==2.1.0
 soupsieve==2.2.1
 Sphinx==3.5.4
 sphinx-autobuild==2021.3.14
+sphinx-copybutton==0.3.3
 sphinxcontrib-applehelp==1.0.2
 sphinxcontrib-devhelp==1.0.2
 sphinxcontrib-htmlhelp==1.0.3
