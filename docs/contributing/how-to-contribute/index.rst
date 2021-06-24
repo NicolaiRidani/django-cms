@@ -1,12 +1,13 @@
 .. _how-to-contribute:
 
-##########################
+#################
 How to contribute
-##########################
+#################
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 3
 
     code
     documentation
     translations
+    patch/index.rst

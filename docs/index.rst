@@ -49,21 +49,21 @@ create a site that is tailored to their precise needs.
 .. rst-class:: column column2
 
 :ref:`gettingstarted`
-=============================
+=====================
 
 Here you can find installation instructions
 
 .. rst-class:: column column2
 
 :ref:`introduction`
-=============
+===================
 
 Topics about basics of CMS
 
 .. rst-class:: column column2
 
 :ref:`advanced`
-=================
+===============
 
 Practical step-by-step guides for the more experienced developer, covering several important topics.
 
@@ -183,7 +183,7 @@ django CMS   Python                             Django
 See the repository's ``setup.py`` for more specific details of dependencies, or the :ref:`release-notes` for
 information about what is required or has changed in particular versions of the CMS.
 
-The :ref:`create_new how-to guide <installation>` provides an overview of other packages required in a django CMS
+The :ref:`install_existing` provides an overview of other packages required in a django CMS
 project.
 
 
