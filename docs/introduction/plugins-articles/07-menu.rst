@@ -1,3 +1,5 @@
+.. _menu_introduction:
+
 #############################
 Extending the navigation menu
 #############################

@@ -1,8 +1,8 @@
 .. _gettingstarted:
 
-###############
+***************
 Getting Started
-###############
+***************
 
 django CMS can be installed in several ways. So before you get started,
 you should ask yourself if you want to install django CMS into an already

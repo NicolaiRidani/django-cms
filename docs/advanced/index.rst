@@ -13,4 +13,4 @@ Advanced Topics
     permissions
     touch
     frontend
-    wizard/index.rst
+    wizard

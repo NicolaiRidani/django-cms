@@ -49,21 +49,21 @@ create a site that is tailored to their precise needs.
 .. rst-class:: column column2
 
 :ref:`gettingstarted`
-=============================
+=====================
 
 Here you can find installation instructions
 
 .. rst-class:: column column2
 
 :ref:`introduction`
-=============
+===================
 
 Topics about basics of CMS
 
 .. rst-class:: column column2
 
 :ref:`advanced`
-=================
+===============
 
 Practical step-by-step guides for the more experienced developer, covering several important topics.
 
@@ -86,7 +86,7 @@ The `django CMS Association <https://www.django-cms.org/en/about-us/>`_ is a non
 organisation that exists to support the development of django CMS and its community.
 
 
-.. rst-class:: column column3
+.. rst-class:: column column2
 
 Slack
 =====
@@ -96,7 +96,7 @@ Join `our friendly Slack group <https://www.django-cms.org/slack>`_ for
 other members of the community.
 
 
-.. rst-class:: column column3
+.. rst-class:: column column2
 
 Discourse
 =========
@@ -105,7 +105,7 @@ Our `Discourse forum <https://discourse.django-cms.org>`_ is also used for
 discussion of django CMS, particularly to manage its technical development process.
 
 
-.. rst-class:: column column3
+.. rst-class:: column column2
 
 StackOverflow
 =============
@@ -113,6 +113,7 @@ StackOverflow
 `StackOverflow <https://stackoverflow.com/questions/tagged/django-cms>`_ is also a good place
 for questions around django CMS and its plugin ecosystem.
 
+.. rst-class:: clearfix row
 
 ***************
 Why django CMS?
@@ -139,6 +140,7 @@ consider django CMS:
 
 
 .. _requirements:
+.. rst-class:: clearfix row
 
 ***********************************************
 Software version requirements and release notes
@@ -155,6 +157,7 @@ by a long-term support policy.
 
 *✓* indicates that the version has been tested and works. *×* indicates that it has not been tested, or
 is known to be incompatible.
+
 
 ===========  === === === === === === === ===    === === === === ==== ==== === === === ===
 django CMS   Python                             Django
@@ -182,9 +185,6 @@ django CMS   Python                             Django
 
 See the repository's ``setup.py`` for more specific details of dependencies, or the :ref:`release-notes` for
 information about what is required or has changed in particular versions of the CMS.
-
-The :ref:`create_new how-to guide <installation>` provides an overview of other packages required in a django CMS
-project.
 
 
 .. toctree::

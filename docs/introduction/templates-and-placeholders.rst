@@ -7,13 +7,13 @@ Templates & Placeholders
 In this tutorial we'll introduce Placeholders, and we're also going to show how
 you can make your own HTML templates CMS-ready.
 
-##########################
+**************************
 How to work with templates
-##########################
+**************************
 
-*********
+
 Templates
-*********
+=========
 
 You can use HTML templates to customise the look of your website, define
 Placeholders to mark sections for managed content and use special tags to

@@ -4,56 +4,35 @@
 Create a new Django CMS project
 ###############################
 
-*********************
+
 Installing django CMS
-*********************
+=====================
 
-We'll get started by setting up our environment.
-
-************
-Requirements
-************
-
-django CMS requires Django 1.11 or newer, and Python 2.7 or 3.3 or newer. This tutorial assumes
-you are using Python 3.
-
-You can find compatibility table for particular python version `here <https://docs.django-cms.org/en/latest/index.html#software-version-requirements-and-release-notes>`_
-
-************************
-Your working environment
-************************
-
-We're going to assume that you have a reasonably recent version of virtualenv
-installed and that you have some basic familiarity with it.
+..  note::
+    Here we assume that you have Django 3.0, and Python 3.8. If you need info about support old versions of Django or Python you can find it here: `<https://docs.django-cms.org/en/latest/index.html#software-version-requirements-and-release-notes>`_
 
 
-Create and activate a virtual environment
-=========================================
+Step 1 - venv
+-------------
 
 Linux
 ::
-
-    python3.6 -m venv env   # Python 2 usage: virtualenv env
+    python3.8 -m venv env
     source env/bin/activate
 
 Windows
 ::
-
     py -m venv env
     env\Scripts\activate
 
+First line creates python virtual environment, second activates it. Than you need to update pip
+::
+    pip install --upgrade pip
 
-Update pip inside the virtual environment
-=========================================
-
-``pip`` is the Python installer. Make sure yours is up-to-date, as earlier versions can be less reliable::
-
-	pip install --upgrade pip
-
+`More info about venv <https://docs.python.org/3.8/library/venv.html?highlight=venv#module-venv>`_
 
 Use the django CMS installer
 ============================
-
 
 The `django CMS installer <https://github.com/nephila/djangocms-installer>`_ is
 a helpful script that takes care of setting up a new project.
