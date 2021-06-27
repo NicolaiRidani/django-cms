@@ -1,4 +1,4 @@
-..  _search:
+..  _advanced-search:
 
 #####################
 Search and django CMS
