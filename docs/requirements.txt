@@ -9,7 +9,6 @@ coverage==5.5
 DateTime==4.3
 Django==3.2
 django-classy-tags==2.0.0
--e git+https://github.com/NicolaiRidani/django-cms@d5c1e936faff2947425864a46091e7a7a8d59cdd#egg=django_cms
 django-formtools==2.2
 django-sekizai==2.0.0
 django-treebeard==4.5.1

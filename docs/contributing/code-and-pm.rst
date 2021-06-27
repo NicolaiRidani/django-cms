@@ -89,9 +89,7 @@ Django CMS ticket processing system rules
 * one and only one status must be applied to each ticket
 * a healthy ticket (blue) cannot have any `critical needs <https://docs.django-cms.org/en/latest/contributing/management.html#label-need-critical>`_ (red)
 * when closed, tickets must have either a healthy (blue) or dead (black) status
-* a ticket with `critical needs <https://docs.django-cms.org/en/latest/contributing/management.html#label-need-critical>`_
-must not have `non-critical needs <https://docs.django-cms.org/en/latest/contributing/management.html#label-need-non-critical>`_
-or `miscellaneous other <https://docs.django-cms.org/en/latest/contributing/management.html#label-others>`_ labels
+* a ticket with `critical needs <https://docs.django-cms.org/en/latest/contributing/management.html#label-need-critical>`_ must not have `non-critical needs <https://docs.django-cms.org/en/latest/contributing/management.html#label-need-non-critical>`_ or `miscellaneous other <https://docs.django-cms.org/en/latest/contributing/management.html#label-others>`_ labels
 * `has patch <https://docs.django-cms.org/en/latest/contributing/management.html#term-has-patch>`_ and `on hold <https://docs.django-cms.org/en/latest/contributing/management.html#term-on-hold>`_ labels imply a related pull request, which must be linked-to when these labels are applied
 * *component*, `non-critical need <https://docs.django-cms.org/en/latest/contributing/management.html#label-need-non-critical>`_ and `miscellaneous other <https://docs.django-cms.org/en/latest/contributing/management.html#label-others>`_ labels should be applied as seems appropriate
 
