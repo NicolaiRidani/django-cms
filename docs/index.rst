@@ -192,6 +192,7 @@ project.
     :maxdepth: 2
     :hidden:
 
+    gettingstarted/index
     introduction/index
     how_to/index
     reference/index
