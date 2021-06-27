@@ -1,8 +1,8 @@
 .. _gettingstarted-create-new-project:
 
-################################
-Create a new django CMS project:
-################################
+###############################
+Create a new django CMS project
+###############################
 
 We'll get started by setting up our environment.
 
@@ -128,4 +128,4 @@ If you need to log in at any time, append ``?edit`` to the URL and hit Return. T
 toolbar, from where you can log in and manage your website.
 
 If you are not already familiar with django CMS, you can take a few minutes to run through the
-basics of the :ref:`django CMS tutorial for users <user-tutorial>`.
+basics of the :ref:`django CMS tutorial for users <editor-documentation>`.
