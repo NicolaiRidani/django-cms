@@ -4,3 +4,7 @@
 Release Notes And Upgrade Information
 #####################################
 
+.. toctree::
+    :maxdepth: 1
+
+    3.0.rst
