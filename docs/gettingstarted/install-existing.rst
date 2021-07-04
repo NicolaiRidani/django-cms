@@ -17,7 +17,7 @@ If you prefer to do things manually, this how-to guide will take you through the
     required.
 
 This document assumes you have some basic familiarity with Python and Django. After you've integrated django CMS into
-your project, you should be able to follow the :doc:`/introduction/index` for an introduction to developing with django
+your project, you should be able to follow the :doc:`/gettingstarted/index` for an introduction to developing with django
 CMS.
 
 
@@ -507,7 +507,7 @@ Then run migrations::
 
     python manage.py migrate.
 
-These and other plugins are described in more detail in :ref:`commonly-used-plugins`. More are listed
+These and other plugins are described in more detail in :ref:`core-principals-plugins-common-plugins`. More are listed
 plugins available on the `django CMS Marketplace <https://marketplace.django-cms.org/en/addons/>`_.
 
 
@@ -530,7 +530,7 @@ done so already.
 Next steps
 **********
 
-If this is your first django CMS project, read through the :ref:`user-tutorial` for a walk-through of some basics.
+If this is your first django CMS project, read through the :ref:`editor-documentation` for a walk-through of some basics.
 
 The :ref:`tutorials for developers <tutorials>` will help you understand how to approach django CMS as a developer.
 Note that the tutorials assume you have installed the CMS using the django CMS Installer, but with a little

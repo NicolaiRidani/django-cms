@@ -57,14 +57,14 @@ For the new django CMS developer, from installation to creating your own addon a
 .. rst-class:: column column2
 
 :ref:`tutorials`
-=============
+================
 
 Practical step-by-step guides for the more experienced developer, covering several important topics.
 
 .. rst-class:: column column2
 
 :ref:`core-principals`
-=================
+======================
 
 Explanation and analysis of some key concepts in django CMS.
 
@@ -194,7 +194,6 @@ project.
 
     gettingstarted/index
     core-principals/index
-    tutorials/index
     advanced-topics/index
     reference/index
     contributor-guidelines/index
