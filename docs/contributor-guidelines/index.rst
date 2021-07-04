@@ -1,8 +1,14 @@
+<<<<<<< HEAD:docs/contributor-guidelines/index.rst
 .. _contributor-guidelines:
 
 ######################
 Contributor Guidelines
 ######################
+=======
+##########
+Contribute
+##########
+>>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6:docs/contributing/index.rst
 
 django CMS is an open-source project, and relies on its community of users to
 keep getting better.
@@ -22,6 +28,13 @@ proposing improvements, contributing code or documentation, and testing the
     contribute-to-django-cms
     howto/index
     development-policies
+<<<<<<< HEAD:docs/contributor-guidelines/index.rst
     code-and-project-management/index
     running-and-writing-tests
     code-of-conduct
+=======
+    how-to-contribute/index.rst
+    management
+    testing
+    code_of_conduct
+>>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6:docs/contributing/index.rst

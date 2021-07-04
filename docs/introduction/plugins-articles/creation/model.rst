@@ -1,30 +1,12 @@
-<<<<<<< HEAD:docs/core-principals/plugins/custom-plugins/how-to-create-plugin-model.rst
-.. _core-principals-plugins-custom-plugins-how-to-create-plugin-model:
-
-##########################
-How To Create Plugin Model
-##########################
-
-=======
-
-.. _create-plugin-model:
+.. _model:
 
 #####################
 Create a plugin model
 #####################
->>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6:docs/introduction/plugins-articles/create-plugin-model.rst
 
 In this tutorial we're going to take a basic Django opinion poll application and integrate it into
 the CMS.
 
-<<<<<<< HEAD:docs/core-principals/plugins/custom-plugins/how-to-create-plugin-model.rst
-
-*********************
-Create a plugin model
-*********************
-
-=======
->>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6:docs/introduction/plugins-articles/create-plugin-model.rst
 In the ``models.py`` of ``polls_cms_integration`` add the following:
 
 ..  code-block:: python
@@ -126,9 +108,9 @@ In this case the template needs to be at ``polls_cms_integration/templates/polls
     </form>
 
 
-***************
+***************************************************
 Test the plugin
-***************
+***************************************************
 
 Now you can restart the runserver (required because you added the new ``cms_plugins.py`` file, and
 visit http://localhost:8000/.
