@@ -12,12 +12,12 @@ Raising an issue
     If you think you have discovered a security issue in our code, please report it privately, by emailing us at security@djangocms.com.
     Please do not raise it in any public forum until we have had a chance to deal with it.
 
-Except in the case of security matters, of course, you’re welcome to raise issues in any way that suits you - :ref:`using Discourse <https://docs.django-cms.org/en/latest/contributing/development-community.html#development-community>`_,
-or the :ref:`Slack group <https://docs.django-cms.org/en/latest/contributing/development-community.html#development-community>`_
+Except in the case of security matters, of course, you’re welcome to raise issues in any way that suits you - `using Discourse`_,
+or the `Slack group`_
 or in person if you happen to meet another django CMS developer.
 
 It’s very helpful though if you don’t just raise an issue by mentioning it to
-people, but actually file it too, and that means creating a :ref:`new issue on GitHub <https://github.com/django-cms/django-cms/issues/new>`_.
+people, but actually file it too, and that means creating a `new issue on GitHub`_.
 
 There’s an art to creating a good issue report.
 
@@ -44,4 +44,6 @@ scope of the project, or is incompatible with our other aims).
 
 Feel free to explain why you think a decision to reject your issue is incorrect - very few decisions are final, and we’re always happy to correct our mistakes.
 
-
+.. _`using Discourse`: https://docs.django-cms.org/en/latest/contributing/development-community.html#development-community
+.. _`Slack group`: ''
+.. _`new issue on GitHub`: 'https://github.com/django-cms/django-cms/issues/new'
