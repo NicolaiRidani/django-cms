@@ -48,8 +48,8 @@ But before you start getting your hands dirty, you should make sure to join us o
 
 Here’s an overview of our communication channels:
 
-* :ref:`django CMS Slack channel <https://www.django-cms.org/slack>`
-* :ref:`Discourse forum <https://discourse.django-cms.org/>`
+* :ref:`django CMS Slack channel`_
+* :ref:`Discourse forum`_
 * Discord server (insert link)
 
 You should make sure to join our Slack workspace. It is our main communication platform. Users from all over the world use Slack to talk about django CMS and to support each other in answering support requests.
@@ -60,8 +60,8 @@ Our Discord server is used for ad hoc online meetings or for after work hangouts
 
 You can also follow us on social media
 
-* the :ref:`@djangocms <https://twitter.com/djangocms>` Twitter account for general announcements
-* the :ref:`django CMS Association LinkedIn <https://www.linkedin.com/company/django-cms-association>` account
+* the :ref:`@djangocms`_ Twitter account for general announcements
+* the :ref:`django CMS Association LinkedIn`_ account
 
 *****************
 Join A Work Group
@@ -76,5 +76,8 @@ Are you interested in knowledge sharing and improving your skills? Then a workgr
 All activity in the community is governed by our :ref:`Code of Conduct <contributor-guidelines-code-of-conduct>`
 
 .. _WhoIsBehingDCA: https://docs.google.com/document/d/1UZ5BwKPVVO_luW6QbE8xYWjryXsrrY8EofgTXoVAY8g/edit#heading=h.nh0etg13g9fz
-
+.. _`django CMS Slack channel`: https://www.django-cms.org/slack
+.. _`Discourse forum`: https://discourse.django-cms.org/
+.. _@djangocms: https://twitter.com/djangocms
+.. _`django CMS Association LinkedIn`: https://www.linkedin.com/company/django-cms-association
 

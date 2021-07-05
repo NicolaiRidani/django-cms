@@ -139,7 +139,7 @@ to a CMS page. In this case, the attached application takes over the page and it
 The application can be served at a URL defined by the content managers, and easily moved
 around in the site structure.
 
-The *Advanced settings* of a CMS page provides an *Application* field. :ref:`Adding an apphook class <apphooks_how_to>` to the
+The *Advanced settings* of a CMS page provides an *Application* field. :ref:`apphooks_how_to` to the
 application will allow it to be selected in this field.
 
 
@@ -159,7 +159,7 @@ Apphook configurations
 You may require the same application to behave differently in different locations on your site. For example, the Olympic
 Records application may be required to publish athletics results at one location, but cycling results at another, and so on.
 
-An :ref:`apphook configuration <apphook_configurations>` class allows the site editors to create multiple configuration
+An :ref:`apphook_configurations` class allows the site editors to create multiple configuration
 instances that specify the behaviour. The kind of configuration available is presented in an admin form, and determined by the
 application developer.
 
@@ -187,7 +187,7 @@ will be delivered at the page's URL.
 
 All URLs in that URL path will be passed to the attached application's URL configs.
 
-The :ref:`Tutorials <tutorials>` section contains a basic guide to :ref:`getting started with
+The :ref:`tutorials` section contains a basic guide to :ref:`getting started with
 apphooks <core-principals-integrating-django-application-apphooks-create-an-apphook>`. This document assumes more familiarity with the CMS generally.
 
 

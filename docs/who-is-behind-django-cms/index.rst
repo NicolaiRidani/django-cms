@@ -8,22 +8,22 @@ Who Is Behind Django CMS
 Django CMS Association
 **********************
 
-django CMS was released under a BSD licence in 2009. It was created at :ref:`Divio AG <https://www.divio.com/>`_
-of Zürich, Switzerland, by :ref:`Patrick Lauber <https://github.com/digi604/>`_,
+django CMS was released under a BSD licence in 2009. It was created at `Divio AG <https://www.divio.com/>`_
+of Zürich, Switzerland, by `Patrick Lauber <https://github.com/digi604/>`_,
 who led its development for several years.
 
-In July 2020 Divio handed over the banner to the newly founded :ref:`django CMS Association (dCA) <https://www.django-cms.org/en/about-us/>`_.
+In July 2020 Divio handed over the banner to the newly founded `django CMS Association (dCA) <https://www.django-cms.org/en/about-us/>`_.
 Its goal is to drive the success of django CMS, by increasing customer happiness,
 market share and open-source-contributions. Divio remains thoroughly committed to
-django CMS as the host of the :ref:`django CMS project website <https://www.django-cms.org/>`_
-and as one of the founding members of the dCA, next to :ref:`What <https://what.digital/>`_
-and :ref:`Eliga Services <https://eliga.services/>`_.
+django CMS as the host of the `django CMS project website <https://www.django-cms.org/>`_
+and as one of the founding members of the dCA, next to `What <https://what.digital/>`_
+and `Eliga Services <https://eliga.services/>`_.
 
-The dCA’s role in steering the project’s development is formalised in the :ref:`django
+The dCA’s role in steering the project’s development is formalised in the `django
 CMS technical committee <https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/about.md>`_,
 whose members are drawn from the django CMS community and the dCA.
 
-The dCA maintains overall control of the :ref:`django CMS repository <https://github.com/django-cms/django-cms>`_.
+The dCA maintains overall control of the `django CMS repository <https://github.com/django-cms/django-cms>`_.
 As the chief backer of django CMS, and in order to ensure a consistent and long-term approach
 to the project, the dCA reserves the right of final say in any decisions concerning
 its development.
@@ -36,7 +36,7 @@ As a non-profit organization the django CMS Association is dependent on donation
 
 The best way to donate is to become a member of the association and pay membership fees. The funding is funneled back into core development and community projects.
 
-* :ref:`Sign up for more information about becoming a member of the dCA <https://www.django-cms.org/en/sign-up/>`_
+* `Sign up for more information about becoming a member of the dCA <https://www.django-cms.org/en/sign-up/>`_
 
 
 
@@ -61,7 +61,7 @@ Work groups
 ===========
 
 Work groups are the heart of our open-source project. A work group is a temporary
-or permanent group of :ref:`Community Heros <https://www.django-cms.org/en/community-heros/>`_ who work together on a single or several
+or permanent group of `Community Heros <https://www.django-cms.org/en/community-heros/>`_ who work together on a single or several
 tasks (feature requests, bugs or improvements).
 
 Learn more about work groups and the joining process here
