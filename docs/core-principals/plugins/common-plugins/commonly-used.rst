@@ -77,7 +77,3 @@ good community support.
 * `django CMS Column <https://github.com/divio/djangocms-column>`_ - layout page content in columns
 * `django CMS Teaser <http://github.com/divio/djangocms-teaser>`_ - displays a teaser box for
   another page or a URL, complete with picture and a description
-<<<<<<< HEAD:docs/core-principals/plugins/common-plugins/commonly-used.rst
-
-=======
->>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6:docs/introduction/plugins-articles/common-plugins.rst

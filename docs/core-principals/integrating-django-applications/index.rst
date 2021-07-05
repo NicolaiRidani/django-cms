@@ -71,7 +71,7 @@ Now run the application's migrations:
 At this point you should be able to log in to the Django
 admin - ``http://localhost:8000/admin/`` - and find the Polls application.
 
-.. image:: /introduction/images/polls-admin.png
+.. image:: /gettingstarted/images/polls-admin.png
    :alt: the polls application admin
    :width: 400
    :align: center
@@ -89,7 +89,7 @@ Create a new **Poll**, for example:
 Now if you visit ``http://localhost:8000/en/polls/``, you should be able to see the published poll
 and submit a response.
 
-.. image:: /introduction/images/polls-unintegrated.png
+.. image:: /gettingstarted/images/polls-unintegrated.png
    :alt: the polls application
    :width: 400
    :align: center
@@ -118,7 +118,7 @@ In ``mysite/templates``, add ``polls/base.html``, containing:
 
 Refresh the ``/polls/`` page again, which should now be properly integrated into the site.
 
-.. image:: /introduction/images/polls-integrated.png
+.. image:: /gettingstarted/images/polls-integrated.png
    :alt: the polls application, integrated
    :width: 400
    :align: center

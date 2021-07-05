@@ -1,11 +1,9 @@
-<<<<<<< HEAD:docs/gettingstarted/create-new-project.rst
 .. _gettingstarted-create-new-project:
 
 ###############################
 Create a new django CMS project
 ###############################
-=======
-..  _create_new:
+
 
 ###############################
 Create a new Django CMS project
@@ -14,7 +12,6 @@ Create a new Django CMS project
 *********************
 Installing django CMS
 *********************
->>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6:docs/gettingstarted/create_new.rst
 
 We'll get started by setting up our environment.
 
@@ -129,7 +126,7 @@ Start the server using following command
 Open http://localhost:8000/ in your browser, where you should be invited to login, and then create
 a new page.
 
-.. image:: /introduction/images/welcome.png
+.. image:: /gettingstarted/images/welcome.png
    :alt: a django CMS home page
    :width: 400
    :align: center

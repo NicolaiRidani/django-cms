@@ -1,8 +1,4 @@
-<<<<<<< HEAD:docs/advanced-topics/wizard/index.rst
 .. _advanced-topics-wizard:
-=======
-.. _content-wizard:
->>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6:docs/advanced/wizard/content-wizard.rst
 
 ######
 Wizard
@@ -64,11 +60,8 @@ offering you a new wizard for creating Polls.
     That would require a much more sophisticated form and processing than is possible within the
     scope of this tutorial.
 
-<<<<<<< HEAD:docs/advanced-topics/wizard/index.rst
-
 .. toctree::
     :maxdepth: 1
 
     how-to-implement-content-creation-wizards
-=======
->>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6:docs/advanced/wizard/content-wizard.rst
+

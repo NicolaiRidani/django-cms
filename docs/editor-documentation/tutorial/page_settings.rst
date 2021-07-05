@@ -9,7 +9,7 @@ The django CMS toolbar offers other useful editing tools.
 Switch to *Edit* mode on one of your pages, and from the toolbar select *Page* > *Page settings...*.
 The *Change page* dialog that opens allows you to manage key settings for your page.
 
-.. image:: /user/tutorial/images/change-page-dialog.png
+.. image:: /editor-documentation/tutorial/images/change-page-dialog.png
    :alt: the 'Change page' dialog
    :align: center
    :width: 50%

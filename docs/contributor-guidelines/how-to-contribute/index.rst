@@ -11,3 +11,4 @@ How to contribute
     documentation
     translations
     patch/index.rst
+    other

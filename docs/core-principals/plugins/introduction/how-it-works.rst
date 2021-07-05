@@ -1,4 +1,3 @@
-<<<<<<< HEAD:docs/core-principals/plugins/introduction/how-it-works.rst
 .. _core-principals-plugins-introduction-how-it-works:
 
 ############
@@ -8,12 +7,7 @@ How It Works
 **********************
 Components of a plugin
 **********************
-=======
-..  _about:
 
-#############
-About Plugins
-#############
 
 CMS Plugins are reusable content publishers that can be inserted into django
 CMS pages (or indeed into any content that uses django CMS placeholders *need link to placeholders*). They
@@ -58,7 +52,6 @@ How it works
 
 Components of a plugin
 ======================
->>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6:docs/introduction/plugins-articles/about.rst
 
 A django CMS plugin is fundamentally composed of three components, that correspond to Django's
 familiar Model-View-Template scheme:
@@ -91,7 +84,7 @@ will require a model.
 
 
 :class:`CMSPlugin <cms.models.pluginmodel.CMSPlugin>`
-==================================================================
+=====================================================
 
 :class:`cms.plugin_base.CMSPluginBase` is actually a sub-class of
 :class:`django:django.contrib.admin.ModelAdmin`.
@@ -135,12 +128,3 @@ that are ignored by the CMS are:
 * ``search_fields``
 * ``show_full_result_count``
 * ``view_on_site``
-<<<<<<< HEAD:docs/core-principals/plugins/introduction/how-it-works.rst
-=======
-
-
-
-
-
-
->>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6:docs/introduction/plugins-articles/about.rst

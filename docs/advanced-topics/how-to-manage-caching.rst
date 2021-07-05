@@ -1,16 +1,9 @@
-<<<<<<< HEAD:docs/advanced-topics/how-to-manage-caching.rst
 .. _advanced-topics-how-to-manage-caching:
 
 #####################
 How To Manage Caching
 #####################
-=======
-..  _caching:
 
-#######
-Caching
-#######
->>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6:docs/advanced/caching.rst
 
 ******
 Set-up

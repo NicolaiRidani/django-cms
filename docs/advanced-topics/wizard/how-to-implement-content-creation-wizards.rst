@@ -1,13 +1,6 @@
-<<<<<<< HEAD:docs/advanced-topics/wizard/how-to-implement-content-creation-wizards.rst
 .. _advanced-topics-wizard-how-to-implement-content-creation-wizards:
 
 .. versionadded:: 3.2
-=======
-.. _create-wizard:
-
-.. versionadded:: 3.2
-
->>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6:docs/advanced/wizard/create-wizard.rst
 
 #########################################
 How To Implement Content Creation Wizards

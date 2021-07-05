@@ -55,25 +55,17 @@ Here you can find installation instructions
 
 .. rst-class:: column column2
 
-<<<<<<< HEAD
-:ref:`tutorials`
-================
-=======
-:ref:`introduction`
-===================
->>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6
+
+:ref:`core-principals`
+======================
 
 Topics about basics of CMS
 
 .. rst-class:: column column2
 
-<<<<<<< HEAD
-:ref:`core-principals`
+
+:ref:`advanced-topics`
 ======================
-=======
-:ref:`advanced`
-===============
->>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6
 
 Practical step-by-step guides for the more experienced developer, covering several important topics.
 
@@ -193,11 +185,8 @@ django CMS   Python                             Django
 See the repository's ``setup.py`` for more specific details of dependencies, or the :ref:`release-notes-and-upgrade-information` for
 information about what is required or has changed in particular versions of the CMS.
 
-<<<<<<< HEAD
+
 The :ref:`installation how-to guide <gettingstarted>` provides an overview of other packages required in a django CMS
-=======
-The :ref:`install_existing` provides an overview of other packages required in a django CMS
->>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6
 project.
 
 

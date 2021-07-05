@@ -1,30 +1,14 @@
-<<<<<<< HEAD:docs/core-principals/plugins/custom-plugins/how-to-create-plugin-model.rst
 .. _core-principals-plugins-custom-plugins-how-to-create-plugin-model:
 
 ##########################
 How To Create Plugin Model
 ##########################
 
-=======
-
-.. _create-plugin-model:
-
-#####################
-Create a plugin model
-#####################
->>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6:docs/introduction/plugins-articles/create-plugin-model.rst
 
 In this tutorial we're going to take a basic Django opinion poll application and integrate it into
 the CMS.
 
-<<<<<<< HEAD:docs/core-principals/plugins/custom-plugins/how-to-create-plugin-model.rst
 
-*********************
-Create a plugin model
-*********************
-
-=======
->>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6:docs/introduction/plugins-articles/create-plugin-model.rst
 In the ``models.py`` of ``polls_cms_integration`` add the following:
 
 ..  code-block:: python
@@ -136,7 +120,7 @@ visit http://localhost:8000/.
 You can now drop the ``Poll Plugin`` into any placeholder on any page, just as
 you would any other plugin.
 
-.. image:: /introduction/images/poll-plugin-in-menu.png
+.. image:: /gettingstarted/images/poll-plugin-in-menu.png
    :alt: the 'Poll plugin' in the plugin selector
    :width: 400
    :align: center

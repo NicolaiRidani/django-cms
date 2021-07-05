@@ -93,7 +93,7 @@ Create and save a new page, then publish it.
 In its *Advanced settings* (from the toolbar, select *Page > Advanced settings...*) choose "Polls
 Application" from the *Application* pop-up menu, and save once more.
 
-.. image:: /introduction/images/select-application.png
+.. image:: /gettingstarted/images/select-application.png
    :alt: select the 'Polls' application
    :width: 400
    :align: center
@@ -560,7 +560,7 @@ apphook instance will be an instance of that model, and administered through the
 Once set up, an apphook configuration can be applied to to an apphook instance, in the *Advanced settings* of the page
 the apphook instance belongs to:
 
-.. image:: /how_to/images/select_apphook_configuration.png
+.. image:: /images/select_apphook_configuration.png
    :alt: selecting an apphook configuration application
    :width: 400
    :align: center

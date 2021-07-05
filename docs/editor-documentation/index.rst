@@ -1,12 +1,7 @@
-<<<<<<< HEAD:docs/editor-documentation/index.rst
 .. _editor-documentation:
 
 ####################
 Editor Documentation
-=======
-####################
-Editor documentation
->>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6:docs/user/index.rst
 ####################
 
 .. note::

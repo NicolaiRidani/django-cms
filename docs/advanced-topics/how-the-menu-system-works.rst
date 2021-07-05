@@ -1,20 +1,8 @@
-<<<<<<< HEAD:docs/advanced-topics/how-the-menu-system-works.rst
 .. _advanced-topics-how-the-menu-system-works:
 
 #########################
 How The Menu System Works
 #########################
-=======
-..  _menu:
-
-####
-Menu
-####
-
-*************************
-How the menu system works
-*************************
->>>>>>> ec1ef18286a802b9046bf6de6c8058a1dadf1ee6:docs/advanced/menu.rst
 
 **************
 Basic concepts
