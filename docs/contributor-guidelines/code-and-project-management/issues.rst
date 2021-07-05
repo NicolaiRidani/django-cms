@@ -12,7 +12,7 @@ Raising an issue
     If you think you have discovered a security issue in our code, please report it privately, by emailing us at security@djangocms.com.
     Please do not raise it in any public forum until we have had a chance to deal with it.
 
-Except in the case of security matters, of course, you’re welcome to raise issues in any way that suits you - :ref:`using Discourse <https://docs.django-cms.org/en/latest/contributing/development-community.html#development-community>`_,
+Except in the case of security matters, of course, you’re welcome to raise issues in any way that suits you - `using Discourse`_,
 or the :ref:`Slack group <https://docs.django-cms.org/en/latest/contributing/development-community.html#development-community>`_
 or in person if you happen to meet another django CMS developer.
 
@@ -44,4 +44,4 @@ scope of the project, or is incompatible with our other aims).
 
 Feel free to explain why you think a decision to reject your issue is incorrect - very few decisions are final, and we’re always happy to correct our mistakes.
 
-
+.. _`using Discourse`: https://docs.django-cms.org/en/latest/contributing/development-community.html#development-community
