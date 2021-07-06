@@ -48,14 +48,17 @@ Mission
 It prepares and updates the technical roadmap for approval by the Executive Board and/or the General Assembly, manages incoming feature requests and proposals and takes decisions on awarding credits for work submitted by members.
 
 * Find out more about the mission
+
 Team
-* Overview of the team
+    * Overview of the team
+
 Tasks
-* Tasks & Decisions Log
-* Kanban Board
+    * Tasks & Decisions Log
+    * Kanban Board
+
 Processes
-* Become a core contributor
-* Become a member of the Tech Committee
+    * Become a core contributor
+    * Become a member of the Tech Committee
 
 Work groups
 ===========
