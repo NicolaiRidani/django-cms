@@ -68,7 +68,7 @@ The basic workflow for a code contribution will typically run as follows:
 Target branches
 ===============
 
-See :ref:`branch_policy` for information about branch policy.
+See branch_policy (need a link here) for information about branch policy.
 
 
 *******************
