@@ -156,16 +156,14 @@ Documentation structure
 
 Our documentation is divided into the following main sections:
 
-* :doc:`/introduction/index` (``introduction``): step-by-step, beginning-to-end tutorials to get
+* :doc:`/gettingstarted/index` (``introduction``): step-by-step, beginning-to-end tutorials to get
   you up and running
-* :doc:`/how_to/index` (``how_to``): step-by-step guides covering more advanced development
-* :doc:`/topics/index` (``topics``): explanations of key parts of the system
+* :doc:`/advanced_topics/index` (``how_to``): step-by-step guides covering more advanced development
 * :doc:`/reference/index` (``reference``): technical reference for APIs, key
   models
   and so on
-* :doc:`/contributing/index` (``contributing``)
-* :doc:`/upgrade/index` (``upgrade``)
-* :doc:`/user/index` (``user``): guides for *using* rather than setting up or developing for the
+* :doc:`/contributor-guidelines/index` (``contributing``)
+* :doc:`/editor-documentation/index` (``user``): guides for *using* rather than setting up or developing for the
   CMS
 
 
