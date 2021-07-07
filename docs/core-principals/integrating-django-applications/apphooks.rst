@@ -187,7 +187,7 @@ will be delivered at the page's URL.
 
 All URLs in that URL path will be passed to the attached application's URL configs.
 
-The :ref:`tutorials` section contains a basic guide to :ref:`getting started with
+The gettingstarted section contains a basic guide to :ref:`getting started with
 apphooks <core-principals-integrating-django-application-apphooks-create-an-apphook>`. This document assumes more familiarity with the CMS generally.
 
 
