@@ -102,7 +102,7 @@ And at any point in that process, you can add: *discuss discuss discuss*,
 because it's always useful for everyone to pass ideas around and look at things
 together.
 
-:ref:`testing` is really important: a pull request that lowers our testing
+Testing is really important: a pull request that lowers our testing
 coverage will only be accepted with a very good reason; bug-fixing patches
 **must** demonstrate the bug with a test to avoid regressions and to check
 that the fix works.
