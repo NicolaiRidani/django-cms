@@ -11,7 +11,7 @@ django CMS is an open project, and welcomes the participation of anyone who woul
 contribute, whatever their any level of knowledge.
 
 As well as code, we welcome contributions to django CMS's :ref:`documentation
-<contributing-documentation>` and :ref:`contributor-guidelines-how-to-contribute-contributing-translations`.
+<contributor-guidelines-how-to-contribute-contributing-documentation>` and :ref:`contributor-guidelines-how-to-contribute-contributing-translations`.
 
 .. note::
    Feel free to dive into coding for django CMS in whichever way suits you. However, you need to be
