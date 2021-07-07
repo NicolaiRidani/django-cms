@@ -5,7 +5,7 @@ Multiple Languages
 ##################
 
 If you used the `django CMS installer <https://github.com/nephila/djangocms-installer>`_ to start your project, you'll find
-that it's already set up for serving multilingual content. Our :ref:`installation` guide also does the same.
+that it's already set up for serving multilingual content. Our :ref:`gettingstarted-create-new-project` guide also does the same.
 
 This guide specifically describes the steps required to enable multilingual support, in case you need to it manually.
 
@@ -64,7 +64,7 @@ The user's preferred language is maintained through a browsing session. So that 
 subsequent sessions, it must be stored in a cookie. To enable this, ``cms.middleware.language.LanguageCookieMiddleware`` must
 be added to the project's ``MIDDLEWARE`` setting.
 
-See :ref:`determining_language_preference` for more information about how this works.
+See determining_language_preference (<= we need link here) for more information about how this works.
 
 
 *********************
