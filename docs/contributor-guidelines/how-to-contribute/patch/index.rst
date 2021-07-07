@@ -220,7 +220,7 @@ Matching these criteria from the very beginning will help the core developers to
 to review your submission more quickly and efficiently and will increase the chances of making a
 successful pull request.
 
-Please see our :ref:`development_policies` for guidance on which branches to use, how to prepare pull requests and so
+Please see our development_policies (needs link here) for guidance on which branches to use, how to prepare pull requests and so
 on.
 
 Features
