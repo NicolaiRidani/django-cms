@@ -5,17 +5,17 @@ How to contribute a patch
 #########################
 
 .. note:: For more background on the material covered in this how-to section, see the
-   :ref:`contributing-code` and :ref:`testing` sections of the documentation.
+   :ref:`contributor-guidelines-how-to-contribute-contributing-code` and :ref:`contributor-guidelines-running-and-writing-tests` sections of the documentation.
 
 django CMS is an open project, and welcomes the participation of anyone who would like to
 contribute, whatever their any level of knowledge.
 
 As well as code, we welcome contributions to django CMS's :ref:`documentation
-<contributing-documentation>` and :ref:`translations <contributing-translations>`.
+<contributing-documentation>` and :ref:`contributor-guidelines-how-to-contribute-contributing-translations`.
 
 .. note::
    Feel free to dive into coding for django CMS in whichever way suits you. However, you need to be
-   aware of the :ref:`guidelines <contributing-code>` and :ref:`policies <management>` for
+   aware of the :ref:`contributor-guidelines-how-to-contribute-contributing-code` and :ref:`contributor-guidelines-code-and-project-management` for
    django CMS project development. Adhering to them will make much easier for the core developers
    to validate and accept your contribution.
 
