@@ -158,7 +158,7 @@ Our documentation is divided into the following main sections:
 
 * :doc:`/gettingstarted/index` (``introduction``): step-by-step, beginning-to-end tutorials to get
   you up and running
-* :doc:`/advanced_topics/index` (``how_to``): step-by-step guides covering more advanced development
+* :doc:`/advanced-topics/index` (``how_to``): step-by-step guides covering more advanced development
 * :doc:`/reference/index` (``reference``): technical reference for APIs, key
   models
   and so on
