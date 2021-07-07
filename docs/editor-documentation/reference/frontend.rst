@@ -18,7 +18,7 @@ to redirect the user to the current address of the created/edited instance.
 This redirection follows the rules below:
 
 * an anonymous user (for example, after logging out) is always redirected to the home page
-* when a model instance has changed (see :ref:`url_changes`) the frontend is redirected to the
+* when a model instance has changed (see url_changes (<= link to)) the frontend is redirected to the
   instance URL, and:
 
   * in case of django CMS pages, the publishing state is taken into account, and then
