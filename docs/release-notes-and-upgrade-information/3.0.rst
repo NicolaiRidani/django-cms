@@ -357,7 +357,7 @@ template tags you can just do:
 =========================================================
 
 A plugin's translatable content can now be read and set through :meth:`~cms.models.pluginmodel.CMSPlugin.get_translatable_content()`
-and :meth:`~cms.models.pluginmodel.CMSPlugin.set_translatable_content()`. See :ref:`Custom Plugins <custom-plugins>` for more info.
+and :meth:`~cms.models.pluginmodel.CMSPlugin.set_translatable_content()`. See :ref:`Custom Plugins <core-principals-plugins-custom-plugins>` for more info.
 
 No more DB table-name magic for plugins
 =======================================
@@ -416,7 +416,7 @@ CMS_TEMPLATE context variable
 
 A new ``CMS_TEMPLATE`` variable is now available in the context: it contains the path to the
 current page template.
-See :ref:`CMS_TEMPLATE reference <page_template>` for details.
+See :ref:`CMS_TEMPLATE reference <core-principals-templates-and-placeholders>` for details.
 
 
 .. _upgrading-from-2.4:
