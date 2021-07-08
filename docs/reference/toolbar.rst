@@ -404,5 +404,5 @@ django CMS constants used in toolbars
 
     The *Site* menu (that usually shows the project's domain name, *example.com* by default).
     ``ADMIN_MENU_IDENTIFIER`` allows you to get hold of this object easily. See
-    :ref:`finding_toolbar_items` for an example of usage.
+    finding_toolbar_items (<= link here) for an example of usage.
 
