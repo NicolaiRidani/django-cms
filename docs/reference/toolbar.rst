@@ -326,7 +326,7 @@ Classes and methods
 
     The base class for toolbar modifiers.
 
-    See :ref:`toolbar_how_to` for more information.
+    See toolbar_how_to (<= link ref) for more information.
 
 
 .. _toolbar_parameters:
