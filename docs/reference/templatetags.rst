@@ -470,7 +470,7 @@ template without further action.
 If the toolbar is enabled, click to call frontend editing code is added.
 
 By using this template tag you can show and edit page titles as well as fields in
-standard django models, see :ref:`frontend-editable-fields` for examples and
+standard django models, see frontend-editable-fields (<= link here) for examples and
 further documentation.
 
 Example:
