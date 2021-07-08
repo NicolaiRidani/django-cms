@@ -328,7 +328,7 @@ Frontend editor for Django models
 =================================
 
 Frontend editor is available for any Django model; see
-:ref:`documentation<frontend-editable-fields>` for details.
+documentation frontend-editable-fields (<= link here) for details.
 
 New ``Page related_name`` to ``Site``
 =====================================
