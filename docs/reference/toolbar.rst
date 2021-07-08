@@ -97,7 +97,7 @@ Classes and methods
 
     ..  method:: watch_models
 
-        Property; a list of models that the toolbar :ref:`watches for URL changes <url_changes>`,
+        Property; a list of models that the toolbar watches for URL changes (<= link here),
         so it can redirect to the new URL on saving.
 
 
