@@ -6,7 +6,7 @@
 Content creation wizards
 ########################
 
-See the :ref:`How-to section on wizards <wizard_how_to>` for an introduction to
+See the :ref:`How-to section on wizards <advanced-topics-wizard>` for an introduction to
 creating wizards.
 
 Wizard classes are sub-classes of ``cms.wizards.wizard_base.Wizard``.

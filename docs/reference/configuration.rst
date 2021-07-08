@@ -393,7 +393,7 @@ default
 
 A list of plugin context processors. Plugin context processors are callables
 that modify all plugins' context *before* rendering. See
-:doc:`/how_to/custom_plugins` for more information.
+:doc:`/core-principals/plugins/custom-plugins/index` for more information.
 
 
 ..  setting:: CMS_PLUGIN_PROCESSORS
@@ -405,7 +405,7 @@ default
     ``[]``
 
 A list of plugin processors. Plugin processors are callables that modify all
-plugins' output *after* rendering. See :doc:`/how_to/custom_plugins`
+plugins' output *after* rendering. See :doc:`/core-principals/plugins/custom-plugins/index`
 for more information.
 
 ..  setting:: CMS_APPHOOKS

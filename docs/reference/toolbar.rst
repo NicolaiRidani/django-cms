@@ -97,7 +97,7 @@ Classes and methods
 
     ..  method:: watch_models
 
-        Property; a list of models that the toolbar :ref:`watches for URL changes <url_changes>`,
+        Property; a list of models that the toolbar watches for URL changes (<= link here),
         so it can redirect to the new URL on saving.
 
 
@@ -317,7 +317,7 @@ Classes and methods
 
     The ``ItemSearchResult`` itself can be cast to an integer, and supports addition and
     subtraction of numbers. See the :option:`position` parameter for more details, and
-    :ref:`toolbar_control_item_position` for examples.
+    toolbar_control_item_position (<= link here) for examples.
 
 
 ..  module:: cms.toolbar_base.CMSToolbar
@@ -326,7 +326,7 @@ Classes and methods
 
     The base class for toolbar modifiers.
 
-    See :ref:`toolbar_how_to` for more information.
+    See toolbar_how_to (<= link ref) for more information.
 
 
 .. _toolbar_parameters:
@@ -404,5 +404,5 @@ django CMS constants used in toolbars
 
     The *Site* menu (that usually shows the project's domain name, *example.com* by default).
     ``ADMIN_MENU_IDENTIFIER`` allows you to get hold of this object easily. See
-    :ref:`finding_toolbar_items` for an example of usage.
+    finding_toolbar_items (<= link here) for an example of usage.
 

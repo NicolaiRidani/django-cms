@@ -44,29 +44,30 @@ django CMS offers out-of-the-box support for the common features you'd expect
 from a CMS, but can also be easily customised and extended by developers to
 create a site that is tailored to their precise needs.
 
-
 .. rst-class:: clearfix row
 
 .. rst-class:: column column2
 
-:ref:`tutorials` - start here
-=============================
+:ref:`gettingstarted`
+=====================
 
-For the new django CMS developer, from installation to creating your own addon applications.
+Here you can find installation instructions
 
 .. rst-class:: column column2
 
-:ref:`how-to`
-=============
+
+:ref:`core-principals`
+======================
+
+Topics about basics of CMS
+
+.. rst-class:: column column2
+
+
+:ref:`advanced-topics`
+======================
 
 Practical step-by-step guides for the more experienced developer, covering several important topics.
-
-.. rst-class:: column column2
-
-:ref:`key-topics`
-=================
-
-Explanation and analysis of some key concepts in django CMS.
 
 .. rst-class:: column column2
 
@@ -181,21 +182,24 @@ django CMS   Python                             Django
 .. _Django: https://www.djangoproject.com
 
 
-See the repository's ``setup.py`` for more specific details of dependencies, or the :ref:`release-notes` for
+See the repository's ``setup.py`` for more specific details of dependencies, or the :ref:`release-notes-and-upgrade-information` for
 information about what is required or has changed in particular versions of the CMS.
 
-The :ref:`installation how-to guide <installation>` provides an overview of other packages required in a django CMS
+
+The :ref:`installation how-to guide <gettingstarted>` provides an overview of other packages required in a django CMS
 project.
 
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     :hidden:
 
-    introduction/index
-    how_to/index
+    gettingstarted/index
+    core-principals/index
+    advanced-topics/index
     reference/index
-    topics/index
-    contributing/index
-    upgrade/index
-    user/index
+    contributor-guidelines/index
+    release-notes-and-upgrade-information/index
+    editor-documentation/index
+    who-is-behind-django-cms/index
+

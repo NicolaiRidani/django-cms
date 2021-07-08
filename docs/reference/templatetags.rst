@@ -470,7 +470,7 @@ template without further action.
 If the toolbar is enabled, click to call frontend editing code is added.
 
 By using this template tag you can show and edit page titles as well as fields in
-standard django models, see :ref:`frontend-editable-fields` for examples and
+standard django models, see frontend-editable-fields (<= link here) for examples and
 further documentation.
 
 Example:
@@ -816,7 +816,7 @@ If the current URL has no CMS Page and is handled by a navigation extender and
 the URL changes based on the language, you will need to set a ``language_changer``
 function with the ``set_language_changer`` function in ``menus.utils``.
 
-For more information, see :doc:`/topics/i18n`.
+For more information, see :doc:`/core-principals/internationalisation/i18n`.
 
 
 ..  templatetag:: language_chooser
@@ -850,7 +850,7 @@ If the current URL has no CMS Page and is handled by a navigation extender and
 the URL changes based on the language, you will need to set a ``language_changer``
 function with the ``set_language_changer`` function in ``menus.utils``.
 
-For more information, see :doc:`/topics/i18n`.
+For more information, see :doc:`/core-principals/internationalisation/i18n`.
 
 
 ..  templatetag:: cms_toolbar
