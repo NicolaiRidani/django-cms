@@ -258,7 +258,7 @@ in its 'Advanced Settings'.
 Modifying & Extending the menu
 ******************************
 
-Please refer to the :doc:`/how_to/menus` documentation
+Please refer to the /how_to/menus (link here) documentation
 
 
 ********************************
