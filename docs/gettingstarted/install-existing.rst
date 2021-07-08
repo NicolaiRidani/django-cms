@@ -5,8 +5,7 @@ Install in an existing django project
 #####################################
 
 The easiest way to install django CMS is by using the automated `django CMS installer
-<https://github.com/nephila/djangocms-installer>`_. This is the recommended way to start with new projects, and it's
-what we use in the :ref:`tutorial section of this documentation <tutorials>`.
+<https://github.com/nephila/djangocms-installer>`_. This is the recommended way to start with new projects.
 
 If you prefer to do things manually, this how-to guide will take you through the process.
 
