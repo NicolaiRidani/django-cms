@@ -317,7 +317,7 @@ Classes and methods
 
     The ``ItemSearchResult`` itself can be cast to an integer, and supports addition and
     subtraction of numbers. See the :option:`position` parameter for more details, and
-    :ref:`toolbar_control_item_position` for examples.
+    toolbar_control_item_position (<= link here) for examples.
 
 
 ..  module:: cms.toolbar_base.CMSToolbar
